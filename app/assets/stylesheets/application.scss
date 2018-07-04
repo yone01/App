@@ -1,0 +1,196 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+#carouselExampleIndicators {
+  height: 410px;
+  width: 800px;
+  margin: auto;
+}
+
+.carousel-inner {
+  height: 410px;
+  width: 800px;
+}
+
+img.d-block.w-100 {
+  height: 420px;
+}
+
+.col-lg-4 {
+  text-align: center;
+  margin: 35px auto;
+}
+
+h2.app-top {
+  padding-top: 25px;
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.mmo {
+  padding-bottom: 0;
+}
+
+h2.mb-5 {
+  margin-left: 150px;
+}
+
+.icon.px-5 {
+  border-left: 4px solid #e91e63;
+  padding-left: 15px
+}
+
+.fuman-top {
+  width: 100%;
+  background-size: cover;
+}
+
+a,a:hover {
+  color: white;
+}
+
+.fuman.text-white {
+  width: 870px;
+  margin: auto;
+  background-color: darkgrey;
+}
+
+.warrod {
+  width: 100%;
+  background-size: cover;
+}
+
+p.fuman{
+  text-align: center;
+  margin-top: 15px;
+  font-size: 30px;
+}
+
+ul.nav.nav-tabs {
+  margin-top: 15px;
+}
+
+section.fuman.text-white {
+  float: right;
+  margin-left: 0px;
+  margin-right: 180px;
+}
+
+.slider {
+  width: 200px;
+  margin: 15px 10px 0 30px;
+  float: left;
+  font-family: 'Bitter', serif;
+}
+
+aside.sidebar {
+    display: block;
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-right: 10px;
+    width: 100%;
+    max-width: 200px;
+}
+
+.main {
+  width: 1200px;
+  margin: auto;
+}
+
+.list-fuman {
+  color: black;
+}
+
+.list-darkelf {
+  color: black;
+  display: inline;
+  width: 200px;
+}
+
+h3 {
+  float: right;
+  text-align: center;
+}
+
+h2.mb-5 {
+  margin: auto;
+}
+
+.main-battle {
+  max-width: 720px;
+  margin: auto;
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2)
+}
+
+h4.mt-5.text-white.bg-dark.text-center {
+  padding: 10px;
+}
+
+h4.text-white.bg-dark.text-center {
+  padding: 10px;
+}
+
+.v {
+  width: 660px;
+}
+
+.w-100,p {
+  padding: 15px;
+}
+
+.main-oe {
+  max-width: 720px;
+  margin: auto;
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+
+h1.oe-top {
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.oe-list {
+  text-align: center;
+  font-size: 12px;
+  margin-bottom: 45px;
+}
+
+table.table.table-bordered {
+  margin: auto;
+}
+
+.col-md-10 {
+  margin: auto;
+}
+
+.col-md-9.text-center {
+  margin: auto;
+}
+
+th.th-b {
+  width: 0px;
+}
+
+#oe-d {
+  margin:auto;
+}
+
+h2.text-white.bg-dark {
+  margin: 5px 10px;
+  padding: 10px;
+  font-size: 25px;
+}

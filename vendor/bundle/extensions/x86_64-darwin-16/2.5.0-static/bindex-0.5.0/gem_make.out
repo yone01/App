@@ -1,0 +1,15 @@
+current directory: /Users/yone/App/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/yone/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180615-1801-50idfv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yone/App/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/yone/App/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/yone/App/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180615-1801-1lwgk9u/bindex
